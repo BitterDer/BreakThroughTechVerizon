@@ -9,4 +9,4 @@ Machine Learning Algorithm: YOLOv5 small
 
 # Final Presentation
 Link to presentation slides: https://docs.google.com/presentation/d/1Qv1bzP7mPOSadjMTkd4OtHOTgF39Bd2bOebcKOvpu9g/edit?usp=sharing
-Link to recording:
+Link to recording: Will link once available!
